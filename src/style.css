@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "OpenSans";
+  src: url("./OpenSans-Regular.woff2") format("woff2"),
+    url("./OpenSans-Regular.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: "OpenSans";
+  background: url("./icon.png");
+  background-repeat: no-repeat;
+}
